@@ -1,11 +1,34 @@
 # Deep Learning in Remote Sensing
-
 <p>This tutorial includes my research, presentations, slides, recommendations and resources for the remote sensing area. </p>
 <p>It will be updated and renewed over time. </p><br>
 
+## Object Detection
+![Image of Yaktocat](https://github.com/deneme-irem/repo-new-name/blob/main/remotesensing-11-00339-g005.png)
+
+### Object Detection Dataset
+-   COCO (Common Objects in Context)
+-   Pascal VOC()
+
+### Proposed - Public General Datasets
+ 1. ISPRS datasets: semantic labeling, reconstruction
+ [https://www.isprs.org/data/]
+ 2. Toronto Massachusetts Roads and Buildings Dataset 
+ [https://www.cs.toronto.edu/~vmnih/data/]
+ 3. IEEE GRSS Data Fusion Contests: 
+ [http://www.grss-ieee.org/community/technical-committees/data-fusion/data-fusion-contest/]
+ 4. IEEE GRSS: hyperspectral datasets with standard train/test splits (DFC2018, Pavia, Indian Pines) 
+[http://dase.grss-ieee.org/]
+ 5. INRIA Aerial Semantic labeling dataset: buildings [https://project.inria.fr/aerialimagelabeling/]
+ 6. XView: objects in aerial images 
+ [http://xviewdataset.org/]
+ 7. DOTA: Detecting Objects in Aerial images 
+ [https://captain-whu.github.io/DOTA/dataset.html]
+
+
+## Remote Sensing and Deep Learning Webinar Series Notes
 UHUZAM Webinar series will consist of 4 weeks. 
 
-### Episode 1 - Introduction to Deep Learning
+#### Episode 1 - Introduction to Deep Learning
 <p>This episode made for beginners on Deep Learning and has suggestions, tricks and more.</p>
 <p><a href="https://www.youtube.com/watch?v=eaZxS4nzIrI&t=1890s">Here,</a> You can reach the webinar for Episode 1 that I gave with UHUZAM. The webinar language is Turkish.</p>
 <p>You can find the presentation slide here. The slide language is English.</p>
@@ -21,7 +44,7 @@ UHUZAM Webinar series will consist of 4 weeks.
 </p>
 
 
-### Episode 2 - Tensorflow, Github and Code Review
+#### Episode 2 - Tensorflow, Github and Code Review
 <p>This episode made for the second week and beginners. After the first week, I wanted to talk about Tensorflow, other frameworks, examples for beginner and deep learning project</p>
 <p><a href="https://www.youtube.com/watch?v=2qE5rmhmyQc&t=5s&ab_channel=UHUZAMCSCRSUHUZAMCSCRS">Here,</a> You can reach the webinar for Episode 2 that I gave with UHUZAM. The webinar language is Turkish.</p>
 <p>You can find the presentation slide here. The slide language is English.</p>
