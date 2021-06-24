@@ -1,9 +1,9 @@
 # Deep Learning in Remote Sensing
-<p>This tutorial includes my research, presentations, slides, recommendations and resources for the remote sensing area. </p>
-<p>It will be updated and renewed over time. </p><br>
+<p>Hi! This tutorial includes my research, presentations, slides, recommendations and resources for the remote sensing area. It will be updated and renewed over time. I suggest you to star and follow the developments in the repo. </p>
 
-## Object Detection
-![Image of Yaktocat](https://github.com/deneme-irem/repo-new-name/blob/main/remotesensing-11-00339-g005.png)
+## Object Detection 
+Object detection is a technology related to computer vision and image processing that allows us to detect, identify, classify and track objects in images and videos. Many objects can be detected with object detection techniques. Plane detection, bridge detection, vehicle detection, ship detection and more can do with the object detection. In the image below, there are some examples of remote sensing data. (Image Source: https://www.mdpi.com/2072-4292/11/3/339)
+![Object detection and remote sensing](https://github.com/deneme-irem/repo-new-name/blob/main/remotesensing-11-00339-g005.png)
 
 ### Object Detection Dataset
 -   COCO (Common Objects in Context)
@@ -26,7 +26,7 @@
 
 
 ## Remote Sensing and Deep Learning Webinar Series Notes
-UHUZAM Webinar series will consist of 4 weeks. 
+UHUZAM Webinar series will consist of 4 weeks. This webinar 
 
 #### Episode 1 - Introduction to Deep Learning
 <p>This episode made for beginners on Deep Learning and has suggestions, tricks and more.</p>
